@@ -6,10 +6,15 @@ import json
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Load logic rules from a JSON file
-with open("chatbot_logic.json", "r") as file:
+# Load chatbot logic rules (e.g., refunds, payment info, etc.)
+with open("chatbot_response_logic.json", "r") as file:
     chatbot_rules = json.load(file)
 
+# Optional: Load activities data (for future advanced matching or links)
+with open("activities.json", "r") as f:
+    activities_data = json.load(f)
+
+# Checks if incoming message matches a rule in the logic file
 def check_logic(message):
     for rule in chatbot_rules:
         if any(keyword.lower() in message.lower() for keyword in rule["keywords"]):
@@ -24,12 +29,12 @@ def whatsapp_webhook():
     if not message_body:
         return "No message received", 400
 
-    # Check if a rule applies
+    # Check for predefined logic match
     rule_response = check_logic(message_body)
     if rule_response:
         return rule_response
 
-    # Otherwise, call OpenAI
+    # Otherwise, let OpenAI handle it
     response = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
