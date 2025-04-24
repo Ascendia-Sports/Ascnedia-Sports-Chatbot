@@ -7,7 +7,7 @@ app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Load chatbot logic rules (e.g., refunds, payment info, etc.)
-with open("chatbot_response_logic.json", "r") as file:
+with open("chatbot_logic.json", "r") as file:
     chatbot_rules = json.load(file)
 
 # Optional: Load activities data (for future advanced matching or links)
