@@ -1,58 +1,58 @@
 from flask import Flask, request
+import openai
 import os
 import json
+from twilio.twiml.messaging_response import MessagingResponse
 
 app = Flask(__name__)
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Manually defined logic rules (for now — skip reading the file)
-chatbot_rules = {
-    "1": "Always figure out which activity and location the customer wants. If they aren’t sure, ask where they are or where they’re going.",
-    "2": "Link them to the closest matching location once you understand their intent.",
-    "3": "All bookings must be done online. Walk-ins are not allowed.",
-    "4": "Some bookings require balance payment onsite. Most accept card. Danyang and Boryeong in Korea are cash-only.",
-    "5": "Refunds are given for weather cancellations or if we cancel for another reason.",
-    "6": "Guests can bring non-participants if mentioned in the booking comment.",
-    "7": "For refunds, ask for the name on the reservation. Let them know we’ll follow up by email.",
-    "8": "Refunds take 5–10 business days to process.",
-    "9": "If the bot can’t help or doesn’t know the answer, ask the customer to email us at contact@ascendia-sports.com.",
-    "10": "If online card payment fails, tell them to email us to arrange a bank transfer or another solution.",
-    "11": "Keep replies short and to the point. Sound human. Wait ~20 seconds before replying. No emoticons.",
-    "12": "Customers choose the date and time when booking. If it’s available online, it’s available.",
-    "13": "The booking time is the arrival time. Guests should arrive at that time or a bit early.",
-    "14": "After booking, tell the guest the local contact will message them on WhatsApp.",
-    "15": "We offer a 10% discount for 7+ people. They must email us to get a promo code.",
-    "16": "Gift vouchers can be purchased and redeemed on activity pages.",
-    "17": "Do not list all activities. First ask what activity they want and where they are or plan to go.",
-    "18": "If they ask which location is best, recommend the closest one. All are beautiful.",
-    "19": "Do not use emoticons. It looks like AI.",
-    "20": "Keep responses short and simple. Avoid giving too much information at once.",
-    "21": "If they ask for directions, say the activity page has detailed meetup instructions.",
-    "22": "Do not ask if they want a link. Send the link once the activity and location are clear.",
-    "23": "For Korea: recommend Yangpyeong or Danyang for Seoul customers. Recommend Busan/Daegu for those near the south.",
-    "24": "Paragliding video is included in Korea, Taiwan, Malaysia, Hong Kong, and Innsbruck. Others may charge extra—check the link.",
-    "25": "Taiwan: Yilan and Hualien paragliding are closed. Recommend Puli and Kaohsiung only.",
-    "26": "Puli paragliding includes pickup anywhere in the Nantou Puli area, and we can help with a return taxi.",
-    "27": "If someone is in Vienna and wants rafting, recommend the closest rafting location.",
-    "28": "Always try to find the closest location for the activity they want.",
-    "29": "Guests can bring non-participants if noted in the booking comment.",
-    "30": "If the guest paid only part online, the rest is due on arrival. The exact amount is on the activity URL.",
-    "31": "Remaining balance can be paid by card at most locations. Danyang, Boryeong, and Innsbruck are cash only."
-}
+# Load chatbot logic rules
+with open("chatbot_logic.json", "r") as file:
+    logic_data = json.load(file)
+
+if isinstance(logic_data, dict) and "key_rules" in logic_data:
+    chatbot_rules = logic_data["key_rules"]
+else:
+    chatbot_rules = logic_data
+
+# Optional: Load activities
+with open("activities.json", "r") as f:
+    activities_data = json.load(f)
+
+# Checks for logic rule match
+def check_logic(message):
+    for rule in chatbot_rules.values():
+        if any(keyword.lower() in message.lower() for keyword in rule.get("keywords", [])):
+            return rule.get("response")
+    return None
 
 @app.route("/whatsapp", methods=["POST"])
 def whatsapp_webhook():
     from_number = request.form.get("From", "")
-    message_body = request.form.get("Body", "").strip().lower()
+    message_body = request.form.get("Body", "").strip()
 
     if not message_body:
         return "No message received", 400
 
-    # Rule matching: simple keyword search
-    for rule in chatbot_rules.values():
-        if any(word in message_body for word in rule.lower().split()):
-            return rule
+    # Create Twilio MessagingResponse
+    twilio_response = MessagingResponse()
 
-    return "Thanks for your message! A team member will get back to you shortly."
+    # Check logic rules
+    rule_response = check_logic(message_body)
+    if rule_response:
+        twilio_response.message(rule_response)
+        return str(twilio_response)
+
+    # Otherwise use OpenAI
+    openai_response = openai.chat.completions.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": message_body}],
+        temperature=0.7
+    )
+    reply = openai_response.choices[0].message.content.strip()
+    twilio_response.message(reply)
+    return str(twilio_response)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)
