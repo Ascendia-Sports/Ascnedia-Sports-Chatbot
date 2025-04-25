@@ -1,1 +1,1698 @@
-
+[
+  {
+    "title": "Tandem Paragliding in Innsbruck, Austria",
+    "url": "https://www.ascendia-sports.com/paragliding-innsbruck-austria",
+    "location": "Congress Innsbruck, Rennweg 3, 6020 Innsbruck, Austria",
+    "description": "Soar above Innsbruck Austria's stunning Alpine landscapes with a tandem paragliding experience. Enjoy breathtaking views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding Salzburg, Austria",
+    "url": "https://www.ascendia-sports.com/paragliding-salzburg-austria.html",
+    "location": "FlyTandem Paragliding, Gaisberg 32, 5026 Salzburg, Austria",
+    "description": "Fly high above Salzburg, Austria with a tandem paragliding experience. Enjoy panoramic views and an exhilarating flight over Austria's scenic landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 169.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding in Werfenweng",
+    "url": "https://www.ascendia-sports.com/paragliding-austria-werfenweng-near-salzburg.html",
+    "location": "FlyTandem Paragliding Werfenweng, Weng 149, 5453 Werfenweng, Austria",
+    "description": "Experience the thrill of tandem paragliding in Werfenweng. Soar above the Austrian Alps and enjoy spectacular views with a professional pilot. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 159.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding Wolfgangsee",
+    "url": "https://www.ascendia-sports.com/paragliding-austria-st-gilgen-wolfgangsee.html",
+    "location": "FlyTandem Paragliding, Konrad-Lesiak-Platz 3, 5340 St. Gilgen, Austria (Inside Gondola Building)",
+    "description": "Glide above Wolfgangsee, Austria with a tandem paragliding experience. Enjoy stunning views of the lake and mountains on an unforgettable aerial adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 179.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding Zell Am See",
+    "url": "https://www.ascendia-sports.com/paragliding-austria-zell-am-see.html",
+    "location": "Schmittenhöhebahn AG, Schmittenstraße 119, 5700 Zell am See, Austria",
+    "description": "Soar above Zell Am See, Austria with a tandem paragliding adventure. Enjoy breathtaking views of Lake Zell and the majestic Hohe Tauern mountains. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 159.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding: Königssee",
+    "url": "https://www.ascendia-sports.com/paragliding-germany-austria-schonau-konigssee.html",
+    "location": "Jennerbahn, Jennerbahnstraße 18, 83471 Schönau am Koenigssee, Germany",
+    "description": "Fly above the emerald-green Königssee lake and Berchtesgaden Alps. Experience tandem paragliding in Austria with spectacular mountain and lake views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 179.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding: Kössen",
+    "url": "https://www.ascendia-sports.com/paragliding-austria-kossen-tirol.html",
+    "location": "Bergbahnen Kössen, Thurnbichl 47, 6345 Kössen, Austria",
+    "description": "Soar over Kössen's stunning Kaiserwinkl landscape with a tandem paragliding experience in Austria. Enjoy breathtaking views of mountains and lakes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 150.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding: Flachau Wagrain",
+    "url": "https://www.ascendia-sports.com/paragliding-winter-austria-flachau-wagrain.html",
+    "location": "Gipfelkreuz Grießenkareck, Grießenkareck 3, 5602 Wagrain (Trail Head, take the Gondola from Flying Mozart)",
+    "description": "Glide above Flachau Wagrain’s snowy peaks on a tandem paragliding adventure. Enjoy breathtaking alpine views on an unforgettable flight in Austria. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 159.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding: Grossarl",
+    "url": "https://www.ascendia-sports.com/paragliding-winter-austria-grossarl.html",
+    "location": "Panoramabahn Großarltal I, Unterberg 123, 5611 Großarl, Austria",
+    "description": "Experience tandem paragliding above Grossarl's snow-covered landscapes. Enjoy panoramic views of alpine valleys and majestic mountains of Austria. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 159.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "Tandem Paragliding Near Innsbruck",
+    "url": "https://www.ascendia-sports.com/paragliding-austria-innsbruck-stubai-tirol.html",
+    "location": "Hochstubai-Liftanlagen, Moos 12, 6167 Neustift im Stubaital, Austria",
+    "description": "Fly above the Tyrolean mountains with a tandem paragliding adventure near Innsbruck, Austria. Enjoy stunning panoramic views and an unforgettable flight. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 125.00,
+    "currency": "EUR"
+  },
+  {
+    "title": "SUP Near Salzburg, Austria",
+    "url": "https://www.ascendia-sports.com/sup-stand-up-paddle-austria-salzburg.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Paddle along the scenic waters near Salzburg, Austria with a stand-up paddleboarding adventure. Enjoy stunning mountain views and a relaxing water experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 67.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Near Salzburg (Almbach Fun)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-salzburg-almbach-fun.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Explore Almbach’s fun canyoning route near Salzburg, Austria. Jump, slide, and swim through crystal-clear waters for an adventurous canyoning experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 78.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Near Salzburg (Almbach Advanced)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-salzburg-almbach-advanced.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Take on Almbach’s advanced canyoning challenge near Salzburg, Austria. Conquer thrilling jumps, slides, and rappels in a stunning mountain setting. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Salzburg (Strubklamm Adventurous)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-salzburg-strubklamm-adventurous.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Experience adventurous canyoning in Strubklamm near Salzburg, Austria. Navigate powerful waterfalls, narrow gorges, and thrilling jumps for adrenaline-filled fun. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 102.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Salzburg (Fischbach Tour)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-salzburg-fischbach.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Discover the beauty of Fischbach canyon near Salzburg, Austria with a guided canyoning tour. Jump, slide, and rappel through an exciting natural playground. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 110.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Salzburg (Alterbach Tour)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-salzburg-alterbach.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Explore Alterbach canyon near Salzburg, Austria with a thrilling canyoning adventure. Enjoy natural slides, jumps, and breathtaking scenery on this guided tour. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 153.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Near Innsbruck (Alpen King)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-innsbruck-alpen-king.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Take on the Alpen King canyoning adventure near Innsbruck, Austria. Navigate through deep gorges, waterfalls, and thrilling jumps for an unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 112.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Near Innsbruck (Jurassic)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-innsbruck-jurassic-auerklamm.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Experience the Jurassic canyon near Innsbruck, Austria. Slide, jump, and rappel through stunning natural formations for a thrilling canyoning adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 125.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Near Innsbruck (Jurassic Large)",
+    "url": "https://www.ascendia-sports.com/canyoning-austria-innsbruck-jurassic-large-auerklamm-challenging.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Challenge yourself with the large Jurassic canyoning route near Innsbruck, Austria. Enjoy exciting jumps, slides, and rappels in a breathtaking natural setting. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 150.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Salzburg",
+    "url": "https://www.ascendia-sports.com/rafting-austria-salzburg-salzach-river.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Embark on an exciting rafting adventure near Salzburg, Austria. Paddle through scenic rivers with thrilling rapids for an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 73.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Salzburg (Easy)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-salzburg-salzach-river-easy.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Enjoy a fun and easy rafting adventure near Salzburg, Austria. Perfect for beginners and families, paddle through scenic waters with gentle rapids. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 60.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Through Salzburg City",
+    "url": "https://www.ascendia-sports.com/rafting-austria-salzburg.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Paddle through the heart of Salzburg, Austria on a scenic rafting tour. Experience the city's beauty from the water while enjoying gentle rapids and fun. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 60.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Salzburg (Action)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-salzburg-salzach-river-lammer.html",
+    "location": "Torrent Outdoor Experience Camp, Wasserfallstrasse 24, 5440 Golling an der Salzach, Austria",
+    "description": "Experience thrilling action on a rafting adventure near Salzburg, Austria. Tackle exciting rapids and enjoy an adrenaline-filled ride through scenic landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 67.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Innsbruck (Imster Gorge Classic)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-innsbruck-imster-gorge-classic.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Raft through Imster Gorge's classic rapids near Innsbruck, Austria. Enjoy thrilling whitewater action and stunning alpine views on this exciting adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 76.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Innsbruck (Imster Gorge Rodeo)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-innsbruck-imster-gorge-rodeo-captain.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Take on the Imster Gorge Rodeo rapids near Innsbruck, Austria. Enjoy extreme whitewater thrills and adrenaline-pumping action on this unforgettable rafting trip. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 91.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Innsbruck (Imster & Otz Extreme)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-innsbruck-imster-otz-gorge-extreme.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Challenge yourself with extreme rafting at Imster Gorge and Otz near Innsbruck, Austria. Experience powerful rapids and adrenaline-pumping whitewater action. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 156.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Innsbruck (Otztaler Ache Extreme)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-innsbruck-otztaler-ache-extreme.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Conquer the extreme Otztaler Ache rapids near Innsbruck, Austria. Experience high-adrenaline whitewater rafting with powerful waves and intense action. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 100.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Innsbruck (Family and Kids)",
+    "url": "https://www.ascendia-sports.com/rafting-austria-innsbruck-families-kids.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Enjoy a fun rafting adventure near Innsbruck, Austria designed for families and kids. Paddle through gentle rapids and scenic landscapes on a safe, exciting trip. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 77.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Via Ferrata Near Innsbruck (Otztal)",
+    "url": "https://www.ascendia-sports.com/via-ferrata-in-austria-innsbruck-otztal.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Experience the thrill of Via Ferrata climbing near Innsbruck, Austria in Otztal. Traverse scenic mountain routes with breathtaking views and guided adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 107.00,
+    "currency": "USD"
+  },
+  {
+    "title": "E-Bike Tour Near Innsbruck (Piburger Lake)",
+    "url": "https://www.ascendia-sports.com/e-bike-tour-austria-innsbruck-piburger-lake-otztaler.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Explore Piburger Lake near Innsbruck, Austria on an e-bike tour. Enjoy scenic trails, stunning lake views, and a fun, leisurely cycling experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 95.00,
+    "currency": "USD"
+  },
+  {
+    "title": "MTB Tour Near Innsbruck (Piburger Lake)",
+    "url": "https://www.ascendia-sports.com/mountain-biking-tour-austria-innsbruck-piburger-lake-otztaler.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Discover scenic trails near Innsbruck, Austria on a mountain bike tour to Piburger Lake. Enjoy breathtaking views and an exciting cycling adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 71.00,
+    "currency": "USD"
+  },
+  {
+    "title": "E-Bike Tour Near Innsbruck (Otztal Challenge)",
+    "url": "https://www.ascendia-sports.com/e-bike-tour-austria-innsbruck-otztal-challenge.html",
+    "location": "Faszinatour Outdoor Haiming, Alte Bundesstraße 26, 6425 Haiming in Tirol, Austria",
+    "description": "Tackle the Otztal Challenge on an e-bike tour near Innsbruck, Austria. Conquer scenic mountain trails with thrilling climbs and breathtaking views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 131.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Skydiving in Prague",
+    "url": "https://www.ascendia-sports.com/skydiving-prague-czech-republic-praha.html",
+    "location": "Sky Service - Skydiving Prague, Dlouhá 612/6, 110 00 Staré Město, Czechia",
+    "description": "Experience the thrill of tandem skydiving near Prague, Czech Republic. Jump from high above the city with an instructor and enjoy an unforgettable adrenaline rush. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 270.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in the Czech Republic",
+    "url": "https://www.ascendia-sports.com/paragliding-czech-republic-czechia-prague-praha-krakow.html",
+    "location": "TandemPiloti s.r.o., Hřbitovní 1029/1, 742 21 Kopřivnice, Czechia",
+    "description": "Soar above the Czech Republic's stunning landscapes with a tandem paragliding experience. Enjoy breathtaking views and an exhilarating flight. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 85.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/rafting-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Embark on an exciting rafting adventure near Prague, Czech Republic. Paddle through scenic rivers and thrilling rapids for an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 528.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hiking Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/hiking-prague-czech-republic-bohemian-switzerland.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Explore scenic hiking trails near Prague, Czech Republic. Enjoy breathtaking views of nature, charming landscapes, and a refreshing outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 400.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tank Driving Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/tank-driving-ifv-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Experience the power of tank driving near Prague, Czech Republic. Take the controls of a real tank and navigate rugged terrain on an adrenaline-pumping adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 440.00,
+    "currency": "USD"
+  },
+  {
+    "title": "ATVs Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/atv-quad-bike-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Ride ATVs through rugged terrain near Prague, Czech Republic. Enjoy an exciting off-road adventure with thrilling tracks and scenic landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 380.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Go Kart Racing Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/go-kart-racing-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Feel the thrill of go-kart racing near Prague, Czech Republic. Compete with friends on challenging tracks for a fun and exhilarating high-speed adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 200.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Flyboard Experience Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/water-sports-fly-board-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Experience the excitement of flyboarding near Prague, Czech Republic. Hover above the water with powerful jets for an unforgettable adrenaline-filled adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 260.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kiting Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/kiting-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Experience the thrill of kitesurfing near Prague, Czech Republic. Glide over the water with powerful winds and enjoy an exciting adventure with stunning views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 152.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bubble Football Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/bubble-football-soccer-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Have a blast with bubble football near Prague, Czech Republic. Bounce, roll, and compete in this hilarious sport for a fun and unforgettable group experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 400.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Cave Exploration Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/cave-exploration-spelunking-prague-czech-republic.html",
+    "location": "PALLADIUM Shopping Mall, náměstí Republiky 1, 110 00 Prague 1, Czechia",
+    "description": "Discover underground wonders with cave exploration near Prague, Czech Republic. Navigate dark passages, stunning formations, and thrilling adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 640.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hot Air Balloon Rides Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/hot-air-balloon-rides-czech-republic.html",
+    "location": "The Konopiste Castle, Konopiště 1, 256 01 Benešov u Prahy-Konopiště, Czechia",
+    "description": "Float above Prague, Czech Republic with picturesque landscapes with a hot air balloon ride. Enjoy panoramic views and a serene, unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 240.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bungee Jumping Near Prague, Czech Republic",
+    "url": "https://www.ascendia-sports.com/bungy-jumping-prague-dresden-czech-republic.html",
+    "location": "Bungee Jumping most Hačka, parkoviště Elišky Krásnohorské, 430 03 Chomutov 3, Czechia",
+    "description": "Take the leap with bungee jumping near Prague, Czech Republic. Experience an adrenaline-pumping freefall from great heights with breathtaking views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bungee Jumping Near Prague and Poland",
+    "url": "https://www.ascendia-sports.com/bungy-jumping-prague-wroclaw-czech-republic-poland.html",
+    "location": "Jiří Stolín, Xtreme Sports, Větrná 1492, 468 51 Smržovka, Czechia",
+    "description": "Feel the adrenaline rush with bungee jumping near Prague and Poland. Leap from towering heights and enjoy an unforgettable thrill. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 75.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Mont Blanc Hiking and Camping Adventure",
+    "url": "https://www.ascendia-sports.com/mont-blanc-hiking-camping-adventure-trek-chamonix.html",
+    "location": "Rte de l'Aéroport 21, 1215 Le Grand-Saconnex, Switzerland",
+    "description": "Embark on a hiking and camping adventure around Mont Blanc. Explore breathtaking trails, scenic landscapes, and an unforgettable alpine experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 750.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Guided Hiking Tours Near Budapest, Hungary",
+    "url": "https://www.ascendia-sports.com/hiking-tours-budapest-hungary.html",
+    "location": "Meeting point varies depending on the selected hike. Please check your confirmation email for exact details",
+    "description": "Discover stunning landscapes on a guided hiking tour near Budapest, Hungary. Enjoy scenic trails, expert guidance, and an enriching outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 64.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Segway Tours in Budapest, Hungary",
+    "url": "https://www.ascendia-sports.com/segway-tours-budapest-hungary.html",
+    "location": "Yellow Zebra - Bike & Segway Tours Budapest, Régi posta utca 2, 1052 Hungary",
+    "description": "Explore Budapest, Hungary effortlessly on a Segway tour. Glide through historic streets, iconic landmarks, and enjoy a fun sightseeing experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 48.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Milan in Bergamo",
+    "url": "https://www.ascendia-sports.com/paragliding-milan-bergamo-italy.html",
+    "location": "Air Emotions, Via Carreggia 11, 24030 Caprino Bergamasco BG, Italy",
+    "description": "Soar above Bergamo Italy's beautiful landscapes with tandem paragliding near Milan. Enjoy breathtaking views and an unforgettable flying experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 125.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Mont Blanc, Italy",
+    "url": "https://www.ascendia-sports.com/rafting-italy-france-aosta-valley-mont-blanc-chamonix.html",
+    "location": "TOTEM ADVENTURE, Rte Mont Blanc 4, 11010 Pré-Saint-Didier AO, Italy",
+    "description": "Experience thrilling rafting near Mont Blanc, Italy. Paddle through scenic rivers with exciting rapids and breathtaking alpine views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 35.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kayaking Near Mont Blanc, Italy",
+    "url": "https://www.ascendia-sports.com/kayaking-italy-france-aosta-valley-mont-blanc-chamonix.html",
+    "location": "TOTEM ADVENTURE, Rte Mont Blanc 4, 11010 Pré-Saint-Didier AO, Italy",
+    "description": "Explore beautiful waters near Mont Blanc with a kayaking adventure. Enjoy scenic views, serene paddling, and an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 75.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Between Genoa and Milan",
+    "url": "https://www.ascendia-sports.com/paragliding-genoa-milan-italy-alessandria-pavia.html",
+    "location": "ParaWorld, Str. del Monte, 27050 Serra del Monte PV, Italy",
+    "description": "Fly above scenic landscapes between Genoa and Milan, Italy with a tandem paragliding experience. Enjoy stunning views and an exhilarating adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 120.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Genoa, Italy",
+    "url": "https://www.ascendia-sports.com/paragliding-genoa-savona-coast-italy.html",
+    "location": "ParaWorld (Beach Stand with sign), SS 1, 17028 Bergeggi SV, Italy",
+    "description": "Soar above Genoa Italy's stunning coastlines and landscapes with a tandem paragliding experience. Enjoy breathtaking views and a thrilling adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 130.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Turin, Italy",
+    "url": "https://www.ascendia-sports.com/paragliding-turin-italy.html",
+    "location": "ParaWorld Canavese (In Front of Church), 10080 Chiesanuova TO, Italy",
+    "description": "Experience tandem paragliding near Turin, Italy with stunning mountain views. Soar high above scenic landscapes and enjoy an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 135.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bike Tour from Amsterdam",
+    "url": "https://www.ascendia-sports.com/biking-tour-amsterdam-the-netherlands.html",
+    "location": "Mike's Bike Tours Amsterdam, Oosterdoksstraat 106, 1011 DK Amsterdam, Netherlands",
+    "description": "Explore Amsterdam's charming streets and scenic canals on a guided bike tour. Enjoy local insights, historical landmarks, and a fun cycling experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 50.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Surf Camp Near Lisbon (Ericeira)",
+    "url": "https://www.ascendia-sports.com/surfing-portugal-lisbon-ericeira.html",
+    "location": "Lapoint Surf Camp Portugal - Ericeira, R. das Curveiras s/n, 2655-099 Carvoeira, Portugal",
+    "description": "Catch the waves at a surf camp in Ericeira, near Lisbon, Portugal. Learn from expert instructors and enjoy an exciting surf adventure on Portugal's coast. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 700.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Surf Camp Near Lisbon (Alentejo)",
+    "url": "https://www.ascendia-sports.com/surfing-portugal-lisbon-alentejo.html",
+    "location": "Lapoint Surf Camp Portugal - Alentejo, Monte Novo da, Zambujeira do Incenso, 7520-429, Portugal",
+    "description": "Experience the thrill of surfing at a camp in Alentejo, near Lisbon, Portugal. Enjoy expert guidance, scenic beaches, and an unforgettable surf adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 700.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Near Porto, Portugal",
+    "url": "https://www.ascendia-sports.com/rafting-porto-portugal.html",
+    "location": "Igreja do Carmo, R. do Carmo, 4050-164 Porto, Portugal (Meet in Front of the Church)",
+    "description": "Embark on an exciting rafting adventure near Porto, Portugal. Navigate thrilling rapids and enjoy scenic river views for an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 440.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning in Porto, Portugal",
+    "url": "https://www.ascendia-sports.com/canyoning-porto-portugal.html",
+    "location": "Igreja do Carmo, R. do Carmo, 4050-164 Porto, Portugal (Meet in Front of the Church)",
+    "description": "Discover the excitement of canyoning in Porto, Portugal. Jump, slide, and rappel through stunning gorges for an adrenaline-packed adventure in nature. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 190.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Off-Road Buggy Adventure in Porto, Portugal",
+    "url": "https://www.ascendia-sports.com/buggy-off-road-porto-portugal.html",
+    "location": "Igreja do Carmo, R. do Carmo, 4050-164 Porto, Portugal (Meet in Front of the Church)",
+    "description": "Experience an exciting off-road buggy adventure in Porto, Portugal. Tackle rugged terrain, scenic trails, and thrilling rides for an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 280.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Surfing in Porto, Portugal",
+    "url": "https://www.ascendia-sports.com/surfing-porto-portugal.html",
+    "location": "Igreja do Carmo, R. do Carmo, 4050-164 Porto, Portugal (Meet in Front of the Church)",
+    "description": "Ride the waves with a surfing adventure in Porto. Learn from expert instructors or test your skills on Portugal's beautiful and scenic beaches. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 70.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Stand-Up Paddleboarding in Porto, Portugal",
+    "url": "https://www.ascendia-sports.com/sup-stand-up-paddle-porto-portugal.html",
+    "location": "Igreja do Carmo, R. do Carmo, 4050-164 Porto, Portugal (Meet in Front of the Church)",
+    "description": "Explore Porto's stunning coastlines with stand-up paddleboarding. Enjoy serene waters, scenic views, and a relaxing adventure on the water. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Madrid, Spain",
+    "url": "https://www.ascendia-sports.com/paragliding-spain-madrid.html",
+    "location": "The Bear and the Strawberry Tree Statue (El Oso y el Madroño), Puerta del Sol, 28013 Madrid, Spain",
+    "description": "Soar above Madrid Spain's scenic landscapes with a tandem paragliding experience. Enjoy breathtaking views and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 75.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paramotoring Near Madrid, Spain",
+    "url": "https://www.ascendia-sports.com/paramotor-spain-madrid.html",
+    "location": "The Bear and the Strawberry Tree Statue (El Oso y el Madroño), Puerta del Sol, 28013 Madrid, Spain",
+    "description": "Fly high above Madrid, Spain with a thrilling paramotoring adventure. Enjoy stunning aerial views and an exhilarating flight with an experienced pilot. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 70.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Training in Madrid, Spain",
+    "url": "https://www.ascendia-sports.com/paragliding-training-in-spain-madrid.html",
+    "location": "The Bear and the Strawberry Tree Statue (El Oso y el Madroño), Puerta del Sol, 28013 Madrid, Spain",
+    "description": "Learn to fly with paragliding training in Madrid, Spain. Gain hands-on experience, expert guidance, and the thrill of solo flights over scenic landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 450.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hot Air Balloon Rides in Barcelona, Spain",
+    "url": "https://www.ascendia-sports.com/hot-air-balloon-rides-barcelona-spain.html",
+    "location": "Hard Rock Café, Pl. de Catalunya, 21, Ciutat Vella, 08002 Barcelona, Spain",
+    "description": "Float above Barcelona's stunning landscapes with a hot air balloon ride. Enjoy panoramic views and a serene, unforgettable flying experience in Spain. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 180.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in South Tyrol (Kronplatz), Italy",
+    "url": "https://www.ascendia-sports.com/paragliding-south-tyrol-sud-tirol-kronplatz-italy.html",
+    "location": "Cabinovia Kronplatz 2000, 39031 Riopratino, Autonomous Province of Bolzano – South Tyrol, Italy (Meet at the front of the gondola)",
+    "description": "Experience tandem paragliding in South Tyrol at Kronplatz. Soar above breathtaking mountain views and enjoy an exhilarating flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 170.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Mont Blanc 4-Day Hiking & Camping Trek",
+    "url": "https://www.ascendia-sports.com/mont-blanc-hiking-camping-trek.html",
+    "location": "Aigle Train Station, Switzerland",
+    "description": "Embark on a 4-day hiking and camping trek around Mont Blanc. Explore breathtaking alpine trails, scenic landscapes, and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 700.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Beginner Via Ferrata in Switzerland",
+    "url": "https://www.ascendia-sports.com/beginner-via-ferrata-mont-blanc-switzerland.html",
+    "location": "Martigny Train Station, 1920 Martigny, Switzerland",
+    "description": "Discover the thrill of Via Ferrata climbing in Switzerland. Perfect for beginners, traverse scenic mountain routes with safety and expert guidance. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 970.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Switzerland Family Cabin Stay",
+    "url": "https://www.ascendia-sports.com/switzerland-family-cabin-stay.html",
+    "location": "Lausanne Train Station, Lausanne, Switzerland",
+    "description": "Enjoy a cozy family cabin stay in Switzerland. Relax in scenic alpine surroundings, explore nature trails, and create unforgettable memories. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 800.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Switzerland Guided Hike",
+    "url": "https://www.ascendia-sports.com/switzerland-guided-hike.html",
+    "location": "Lausanne Train Station, Lausanne, Switzerland",
+    "description": "Discover Western Switzerland on a guided hike tailored to your group. Enjoy stunning alpine views and an unforgettable outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 550.00,
+    "currency": "USD"
+  },
+  {
+    "title": "River Rafting on the Lütschine River, Interlaken",
+    "url": "https://www.ascendia-sports.com/river-rafting-lutschine-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Conquer thrilling rapids on the Lütschine River in Interlaken, Switzerland. Experience whitewater adventure with stunning Swiss Alps scenery. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 170.00,
+    "currency": "USD"
+  },
+  {
+    "title": "River Rafting on the Simme River, Interlaken",
+    "url": "https://www.ascendia-sports.com/river-rafting-simme-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Enjoy family-friendly whitewater rafting on the Simme River. Navigate class II-III rapids with breathtaking alpine views in Interlaken, Switzerland. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 160.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Family River Rafting in Interlaken",
+    "url": "https://www.ascendia-sports.com/family-river-rafting-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Have fun on a family-friendly rafting adventure in Interlaken, Switzerland. Navigate gentle rapids and enjoy scenic landscapes perfect for all ages. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 115.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Rafting in Interlaken",
+    "url": "https://www.ascendia-sports.com/tandem-rafting-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Experience tandem rafting on the Lütschine River in Interlaken, Switzerland. Navigate thrilling rapids with a partner for an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 195.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Aare Float Trip in Interlaken",
+    "url": "https://www.ascendia-sports.com/aare-float-trip-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Relax on a scenic float down the Aare River from Thun to Bern, Switzerland. Perfect for families and groups, enjoy stunning views and a leisurely ride. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 800.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Interlaken",
+    "url": "https://www.ascendia-sports.com/paragliding-switzerland-interlaken.html",
+    "location": "Restaurant Schuh, Höheweg 56, 3800 Interlaken",
+    "description": "Fly above Interlaken, Switzerland with a tandem paragliding experience. Enjoy breathtaking views of the Swiss Alps and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 200.00,
+    "currency": "CHF"
+  },
+  {
+    "title": "Canyoning in Interlaken",
+    "url": "https://www.ascendia-sports.com/canyoning-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Embark on a thrilling canyoning adventure in Interlaken, Switzerland. Slide, jump, and rappel through narrow gorges with stunning waterfall views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 170.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Grimsel in Interlaken",
+    "url": "https://www.ascendia-sports.com/canyoning-grimsel-switzerland-interlaken.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Experience canyoning in Grimsel near Interlaken, Switzerland. Navigate natural slides, jumps, and ziplines surrounded by stunning alpine landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 205.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Chli Schliere in Interlaken",
+    "url": "https://www.ascendia-sports.com/canyoning-chli-schliere-switzerland-interlaken.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Challenge yourself with canyoning at Chli Schliere near Interlaken, Switzerland. Conquer high rappels, big jumps, and thrilling slides on this epic adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 265.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Monster Scooter Tour in Interlaken",
+    "url": "https://www.ascendia-sports.com/monster-scooter-tour-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Ride through Interlaken's scenic landscapes on a monster scooter. Enjoy thrilling downhill tracks and breathtaking views on this fun adventure in Switzerland. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Downhill Gravity Scooter Tour in Interlaken",
+    "url": "https://www.ascendia-sports.com/downhill-gravity-scooter-tour-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Race down mountain paths on a gravity scooter in Interlaken, Switzerland. Enjoy adrenaline-pumping descents with stunning views of the Swiss Alps. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bungy Jump at Stockhorn in Interlaken",
+    "url": "https://www.ascendia-sports.com/bungy-jump-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Leap from Stockhorn's 134-meter platform for a thrilling bungy jump in Interlaken, Switzerland. Experience an adrenaline rush with breathtaking alpine views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 260.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyon Swing in Interlaken",
+    "url": "https://www.ascendia-sports.com/canyon-swing-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Feel the ultimate thrill on a canyon swing in Interlaken, Switzerland. Free-fall into a canyon before swinging at high speeds for an adrenaline-pumping ride. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 170.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Airplane Skydiving in Interlaken",
+    "url": "https://www.ascendia-sports.com/airplane-skydiving-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Skydive over Interlaken, Switzerland with a scenic airplane jump. Enjoy breathtaking aerial views of the Swiss Alps and an unforgettable adrenaline rush. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 500.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Helicopter Skydiving in Interlaken and Lauterbrunnen",
+    "url": "https://www.ascendia-sports.com/helicopter-skydiving-interlaken-lauterbrunnen-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Experience helicopter skydiving over Interlaken and Lauterbrunnen, Switzerland. Enjoy stunning alpine views and the ultimate adrenaline-filled adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 600.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Via Ferrata in Mürren and Lauterbrunnen",
+    "url": "https://www.ascendia-sports.com/via-ferrata-murren-lauterbrunnen.html",
+    "location": "Alpines Sportzentrum Mürren, 3825 Mürren, Switzerland",
+    "description": "Trek the thrilling Via Ferrata in Mürren and Lauterbrunnen, Switzerland. Traverse cliffside routes with safety lines, scenic views, and guided adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 185.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Aletsch Glacier Hike from Jungfraujoch",
+    "url": "https://www.ascendia-sports.com/aletsch-glacier-hike-jungfraujoch-switzerland.html",
+    "location": "Coffee Bar of Jungfraujoch, Jungfraujoch, 3801",
+    "description": "Hike across the Aletsch Glacier from Jungfraujoch. Enjoy stunning ice formations, guided exploration, and breathtaking alpine landscapes in Switzerland. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 358.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hang Gliding in Interlaken",
+    "url": "https://www.ascendia-sports.com/hanggliding-interlaken-switzerland.html",
+    "location": "OUTDOOR - Interlaken Base, Hauptstrasse 15, 3800 Matten bei Interlaken, Switzerland",
+    "description": "Soar above Interlaken, Switzerland with a tandem hang gliding experience. Enjoy breathtaking views of the Swiss Alps and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 290.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Half-Day Kayaking Adventure in Interlaken",
+    "url": "https://www.ascendia-sports.com/kayaking-interlaken-switzerland.html",
+    "location": "Hightide Kayak School, Strandbad Bönigen, Lütschinenstrasse 24, 3806 Bönigen",
+    "description": "Paddle through scenic waters on a half-day kayaking adventure in Interlaken, Switzerland. Enjoy stunning mountain views and a fun outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Bali, Indonesia",
+    "url": "https://www.ascendia-sports.com/paragliding-bali-indonesia.html",
+    "location": "Paragliding Di Bali, Jl. karang pandawa, Kutuh, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia​ (Look For Paragliding Signs)",
+    "description": "Soar above Bali’s stunning landscapes with a tandem paragliding experience. Enjoy breathtaking coastal views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 71.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Surfing Camp in Bali, Indonesia",
+    "url": "https://www.ascendia-sports.com/surfing-bali-indonesia.html",
+    "location": "Lapoint Surf Camp Bali - Canggu Echo Beach No.47, Canggu, Kuta Utara, Badung Regency, Bali 80361, Indonesia",
+    "description": "Catch the waves at a surfing camp in Bali. Learn from expert instructors, enjoy beautiful beaches, and experience an exciting surf adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 640.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Tokyo, Japan",
+    "url": "https://www.ascendia-sports.com/paragliding-japan-tokyo.html",
+    "location": "Asagiri Plateau Paragliding School, 282-1 Nebara, Fujinomiya, Shizuoka 418-0101, Japan",
+    "description": "Fly above Tokyo’s scenic landscapes with tandem paragliding. Enjoy stunning mountain views and an exhilarating flying experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 10000,
+    "currency": "JPY"
+  },
+  {
+    "title": "Tandem Paragliding in Hong Kong",
+    "url": "https://www.ascendia-sports.com/paragliding-hongkong.html",
+    "location": "Central MTR Station",
+    "description": "Soar above Hong Kong with a tandem paragliding experience. Enjoy breathtaking city and coastal views for an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 2600.00,
+    "currency": "HKD"
+  },
+  {
+    "title": "Hiking the Dragon’s Back Trail in Hong Kong",
+    "url": "https://www.ascendia-sports.com/hiking-hong-kong-dragons-back.html",
+    "location": "Shau Kei Wan MTR Station, Exit A3, Hong Kong",
+    "description": "Hike Hong Kong's famous Dragon’s Back Trail. Enjoy panoramic views of the coastline, lush greenery, and an unforgettable outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hiking the Ng Tung Chai Waterfalls in Hong Kong",
+    "url": "https://www.ascendia-sports.com/hiking-hong-kong-ng-tung-chai-waterfalls.html",
+    "location": "Tai Wo MTR Station, Exit 3, Hong Kong",
+    "description": "Explore the scenic Ng Tung Chai Waterfalls on a guided hike in Hong Kong. Enjoy lush forest trails and breathtaking waterfall views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 77.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Cycling the Tolo Harbour Route in Hong Kong",
+    "url": "https://www.ascendia-sports.com/cycling-hong-kong-tolo-harbour-cycle.html",
+    "location": "Tai Po Market MTR Station, Exit B, Hong Kong",
+    "description": "Cycle along Hong Kong's Tolo Harbour Route. Enjoy scenic coastal views, leisurely paths, and a fun cycling adventure suitable for all levels. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Plover Cove Cycling and Hiking Adventure in Hong Kong",
+    "url": "https://www.ascendia-sports.com/cycling-hong-kong-hike-plover-cove.html",
+    "location": "Tai Po Market MTR Station, Exit B, Hong Kong",
+    "description": "Combine cycling and hiking in Plover Cove, Hong Kong. Explore scenic trails, beautiful coastlines, and enjoy an active outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Mui Wo Mountain Biking Adventure in Hong Kong",
+    "url": "https://www.ascendia-sports.com/cycling-hong-kong-mui-wo-mountain-biking.html",
+    "location": "Central Ferry Pier No. 6, Hong Kong",
+    "description": "Ride challenging mountain biking trails in Mui Wo, Hong Kong. Enjoy thrilling descents, scenic views, and an exciting outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 230.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Geopark Kayaking Adventure in Hong Kong",
+    "url": "https://www.ascendia-sports.com/kayaking-hong-kong-geopark-paddle.html",
+    "location": "Hang Hau MTR Station, Exit B2, Hong Kong",
+    "description": "Paddle through Hong Kong's UNESCO Geopark with a kayaking adventure. Explore stunning rock formations, sea caves, and breathtaking coastal views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 102.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Sai Kung Stand-Up Paddleboarding in Hong Kong",
+    "url": "https://www.ascendia-sports.com/sup-stand-up-paddle-hong-kong-sai-kung.html",
+    "location": "Hang Hau MTR Station, Exit B2, Hong Kong",
+    "description": "Paddle through Sai Kung's stunning waters in Hong Kong. Enjoy beautiful coastal views, serene lagoons, and an unforgettable paddleboarding adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 102.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kiteboarding in Hong Kong",
+    "url": "https://www.ascendia-sports.com/kiteboarding-hongkong.html",
+    "location": "Shui Hau Wan Village Bus Stop, Lantau Island, Hong Kong",
+    "description": "Experience the thrill of kiteboarding in Hong Kong. Glide over the water with powerful winds and enjoy an adrenaline-filled watersport adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 150.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Danyang",
+    "url": "https://www.ascendia-sports.com/paragliding-korea-danyang-seoul.html",
+    "location": "Danyang Intercity Bus Terminal",
+    "description": "Soar above Danyang Korea's picturesque valleys with a tandem paragliding experience. Enjoy breathtaking mountain views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Tandem Paragliding Near Busan",
+    "url": "https://www.ascendia-sports.com/paragliding-korea-ulsan-busan.html",
+    "location": "Singyeongju Station, Exit 1",
+    "description": "Fly above scenic landscapes near Busan, Korea with a tandem paragliding experience. Enjoy stunning coastal views and an exhilarating flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Tandem Paragliding Near Daegu",
+    "url": "https://www.ascendia-sports.com/paragliding-korea-daegu-busan.html",
+    "location": "Singyeongju Station, Exit 1",
+    "description": "Experience tandem paragliding near Daegu, Korea. Soar above beautiful mountain landscapes and enjoy breathtaking views on an unforgettable flight. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Tandem Paragliding in Yangpyeong",
+    "url": "https://www.ascendia-sports.com/paragliding-korea-yanpyeong-seoul.html",
+    "location": "Asin Station, Exit 1, Yangpyeong Korea",
+    "description": "Glide above Yangpyeong Korea's scenic countryside with a tandem paragliding experience. Enjoy panoramic views and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 165000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Tandem Paragliding in Boryeong",
+    "url": "https://www.ascendia-sports.com/paragliding-korea-boryeong.html",
+    "location": "(유)대천국가대표패러글라이딩 (Daecheon National Paragliding Center), 119-9 Changdong 1-gil, Nampo-myeon, Boryeong-si, Chungcheongnam-do, South Korea",
+    "description": "Soar above Boryeong Korea's stunning coastlines with a tandem paragliding experience. Enjoy breathtaking ocean views and an exhilarating adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Paintball Near Seoul",
+    "url": "https://www.ascendia-sports.com/paintball-korea-seoul.html",
+    "location": "엑스게임리조트 (X Game Resort), 2254 Seorak-ro, Inje-eup, Inje-gun, Gangwon-do, South Korea",
+    "description": "Compete in an action-packed paintball battle near Seoul, Korea. Enjoy thrilling gameplay, strategic challenges, and fun group competition. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 30.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bungee Jumping Near Seoul",
+    "url": "https://www.ascendia-sports.com/bungee-jumping-korea-seoul-inje.html",
+    "location": "엑스게임리조트 (X Game Resort), 2254 Seorak-ro, Inje-eup, Inje-gun, Gangwon-do, South Korea",
+    "description": "Take the leap with bungee jumping near Seoul, Korea. Experience the ultimate adrenaline rush with breathtaking views and an unforgettable freefall. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 57.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Slingshot Near Seoul",
+    "url": "https://www.ascendia-sports.com/slingshot-korea-seoul-inje.html",
+    "location": "엑스게임리조트 (X Game Resort), 2254 Seorak-ro, Inje-eup, Inje-gun, Gangwon-do, South Korea",
+    "description": "Launch into the air with a slingshot ride near Seoul, Korea. Experience an adrenaline-pumping freefall and thrilling G-forces on this extreme adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 25.00,
+    "currency": "USD"
+  },
+  {
+    "title": "ATVs Near Seoul",
+    "url": "https://www.ascendia-sports.com/atv-korea-seoul-inje.html",
+    "location": "엑스게임리조트 (X Game Resort), 2254 Seorak-ro, Inje-eup, Inje-gun, Gangwon-do, South Korea",
+    "description": "Ride ATVs through rugged terrain near Seoul, Korea. Enjoy thrilling off-road tracks, scenic landscapes, and an action-packed adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 30.00,
+    "currency": "USD"
+  },
+  {
+    "title": "ATV Riding in Danyang, Korea",
+    "url": "https://www.ascendia-sports.com/atv-korea-danyang-seoul.html",
+    "location": "단양팔경 산악 오토바이 (Danyang Palgyeong Mountain ATV), 90-13 Gosu-ri, Danyang-eup, Danyang-gun, Chungcheongbuk-do, South Korea, 27024",
+    "description": "Explore Danyang Korea's scenic landscapes on an ATV adventure. Ride through rugged trails, mountain paths, and enjoy thrilling off-road fun. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 40000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Water Sports in Seoul",
+    "url": "https://www.ascendia-sports.com/water-sports-korea-seoul.html",
+    "location": "River City Water Sports, 379 Apgujeong-dong, Gangnam District, Seoul, South Korea",
+    "description": "Enjoy exciting water sports in Seoul, Korea. From jet skiing to wakeboarding, experience adrenaline-pumping action on scenic rivers and lakes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 30000,
+    "currency": "KRW"
+  },
+  {
+    "title": "Rafting Near Seoul",
+    "url": "https://www.ascendia-sports.com/rafting-korea-seoul.html",
+    "location": "엑스게임리조트 (X Game Resort), 2254 Seorak-ro, Inje-eup, Inje-gun, Gangwon-do, South Korea",
+    "description": "Embark on an exciting rafting adventure near Seoul, Korea. Navigate thrilling rapids and enjoy scenic river views for an unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 30.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning in Gapyeong's Serpent's Tail Canyon",
+    "url": "https://www.ascendia-sports.com/canyoning-korea-gapyeong.html",
+    "location": "Gapyeong Subway Station, Exit 1",
+    "description": "Experience canyoning at Serpent's Tail Canyon in Gapyeong, Korea. Jump, slide, and rappel through stunning gorges for an adrenaline-packed adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning in Uljin, Korea",
+    "url": "https://www.ascendia-sports.com/canyoning-korea-uljin.html",
+    "location": "Deokpung Valley Parking Area, Uljin-gun, Gyeongsangbuk-do, South Korea",
+    "description": "Explore Uljin Korea's natural beauty with a canyoning adventure. Slide, jump, and rappel through waterfalls and gorges for an unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 83.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning in Samcheok's Sleeping Dragon Canyon",
+    "url": "https://www.paragliding-korea.com/canyoning-korea-samcheok.html",
+    "location": "Samcheok Bus Terminal, Samcheok-si, Gangwon-do, South Korea",
+    "description": "Challenge yourself with canyoning at Sleeping Dragon Canyon in Samcheok, Korea. Navigate thrilling jumps, slides, and rappels in stunning landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 83.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hiking in Korea",
+    "url": "https://www.paragliding-korea.com/hiking-korea-seoul-guide.html",
+    "location": "Seoul Station, Exit 1, 405 Hangang-daero, Jung-gu, Seoul, South Korea",
+    "description": "Explore scenic hiking trails in Korea. Enjoy breathtaking mountain views, lush forests, and an enriching outdoor adventure for all skill levels. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 70.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Ridge Climbing in Korea",
+    "url": "https://www.ascendia-sports.com/ridge-climbing-korea-seoul.html",
+    "location": "Seoul Station, Exit 1, 405 Hangang-daero, Jung-gu, Seoul, South Korea",
+    "description": "Experience the thrill of ridge climbing in Korea. Conquer challenging routes with stunning panoramic views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 70.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Indoor Surfing in Korea",
+    "url": "https://www.ascendia-sports.com/indoor-surfing-korea-seoul.html",
+    "location": "Dreamping, 105-1 Geumnam-ri, Hwado-eup, Namyangju-si, Gyeonggi-do, South Korea",
+    "description": "Catch the waves with indoor surfing in Korea. Perfect for all skill levels, enjoy thrilling rides and fun in a safe, controlled environment. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 45.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Surfing in Busan",
+    "url": "https://www.ascendia-sports.com/surfing-busan-south-korea.html",
+    "location": "Songjeong Surf School, 28 Songjeonghaebyeon-ro, Songjeong-dong, Haeundae-gu, Busan, South Korea",
+    "description": "Catch the waves in Busan, South Korea. Enjoy surfing on beautiful beaches, expert guidance, and an exciting watersport adventure for all skill levels. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 80.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Kuala Lumpur",
+    "url": "http://www.ascendia-sports.com/paragliding-malaysia-kuala-lumpur.html",
+    "location": "Bukit Jugra, 42700 Banting, Selangor, Malaysia / Taman Milenium, Kuala Kubu Bharu, Selangor, Malaysia",
+    "description": "Fly above scenic landscapes near Kuala Lumpur, Malaysia with a tandem paragliding experience. Enjoy stunning views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 240.00,
+    "currency": "MYR"
+  },
+  {
+    "title": "Paragliding Kota Kinabalu Kokol Hill",
+    "url": "https://www.paraglidinginmalaysia.com/paragliding-kota-kinabalu-kokol-hill.html",
+    "location": "Kokol Haven Resort 10 km, Jalan Kokol - Tombongon, 88450 Kota Kinabalu, Sabah",
+    "description": "Soar above Kokol Hill in Kota Kinabalu, Malaysia with a tandem paragliding experience. Enjoy breathtaking coastal views and an exhilarating flight. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 115.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Manila, Philippines",
+    "url": "https://www.ascendia-sports.com/paragliding-manila-philippines.html",
+    "location": "San Mateo Biker's Club, San Mateo, Rizal, Philippines",
+    "description": "Fly above stunning landscapes near Manila, Philippines with a tandem paragliding experience. Enjoy breathtaking views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 80.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Training Near Manila, Philippines",
+    "url": "https://www.ascendia-sports.com/paraglidiing-training-manila-philippines.html",
+    "location": "San Mateo Biker's Club, San Mateo, Rizal, Philippines",
+    "description": "Learn to fly with paragliding training near Manila, Philippines. Gain hands-on experience, expert guidance, and the thrill of solo flights. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 1300.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Hualien, Taiwan (Ocean View)",
+    "url": "https://www.paraglidingintaiwan.com/paragliding-in-hualien-pacific-ocean-view.html",
+    "location": "花蓮太魯閣天空之鏡飛行傘 (Hualien Taroko Sky Mirror Paragliding), Manbo Beach (漫波海灘), Xiulin Township, Hualien County, 972, Taiwan",
+    "description": "Experience tandem paragliding in Hualien, Taiwan with stunning ocean views. Soar above breathtaking coastlines and enjoy an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Taiwan (Hualien)",
+    "url": "https://www.paraglidingintaiwan.com/paraglidingintaiwan-neartaipei.html",
+    "location": "Wanrong Train Station, 975, Taiwan, Hualien County, Fenglin Township",
+    "description": "Fly above Hualien's scenic landscapes in Taiwan with a tandem paragliding experience. Enjoy breathtaking mountain views and an exhilarating adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Taiwan (Yilan)",
+    "url": "https://www.paraglidingintaiwan.com/paraglidingintaiwan-neartaipei-wanli.html",
+    "location": "Wai'ao Paragliding Site (外澳飛行傘基地), No. 31, Gangkou Section, Toucheng Township, Yilan County, 261, Taiwan",
+    "description": "Soar above Yilan's picturesque valleys in Taiwan with a tandem paragliding experience. Enjoy stunning coastal views and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 72.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding in Puli, Taiwan",
+    "url": "https://www.paraglidingintaiwan.com/paragliding-puli-taichung.html",
+    "location": "Puli Flyers Paragliding (埔里飛行者飛行傘), No. 100, Zhian Rd, Puli Township, Nantou County, 545, Taiwan",
+    "description": "Glide above Puli's scenic landscapes in Taiwan with a tandem paragliding adventure. Enjoy breathtaking mountain views and an exhilarating experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 125.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Over Sun Moon Lake Near Puli, Taiwan",
+    "url": "https://www.paraglidingintaiwan.com/paragliding-sunmoon-lake-puli-taiwan.html",
+    "location": "Puli Flyers Paragliding x Huxiao Shanlan (埔里飛行者飛行傘 x 虎嘯山嵐), No. 100, Zhian Rd, Puli Township, Nantou County, 545, Taiwan",
+    "description": "Soar above Sun Moon Lake near Puli, Taiwan with a tandem paragliding experience. Enjoy stunning lake views and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 138.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Paragliding Near Kaohsiung, Taiwan",
+    "url": "https://www.paraglidingintaiwan.com/paragliding-taiwan-kaohsiung-tainan.html",
+    "location": "Pingtung Railway Station No. 62, Gongyong Rd, Pingtung City, Pingtung County, 900, Taiwan",
+    "description": "Fly above Kaohsiung's scenic landscapes in Taiwan with a tandem paragliding adventure. Enjoy stunning coastal views and an unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 125.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Training in Taiwan",
+    "url": "https://www.paraglidingintaiwan.com/taiwan-paragliding-training.html",
+    "location": "Puli Flyers Paragliding (埔里飛行者飛行傘), No. 100, Zhian Rd, Puli Township, Nantou County, 545, Taiwan",
+    "description": "Learn to fly with paragliding training in Taiwan. Gain hands-on experience, expert instruction, and the thrill of solo flights over scenic landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 335.00,
+    "currency": "USD"
+  },
+  {
+    "title": "4-Hour Morning Taipei Cycling Tour",
+    "url": "https://www.ascendia-sports.com/taipei-taiwan-bike-tour-morning.html",
+    "location": "Taipei Bike Works (維修/保養專門店/單車租借), No. 9, Lane 70, Section 2, Chongqing N Rd, Datong District, Taipei City, 103, Taiwan",
+    "description": "Explore Taipei, Taiwan on a 4-hour morning cycling tour. Enjoy scenic city views, cultural landmarks, and an active sightseeing adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 62.00,
+    "currency": "USD"
+  },
+  {
+    "title": "8-Hour Taipei Cycling Tour",
+    "url": "https://www.ascendia-sports.com/bike-tour-taiwan-taipei-cycling.html",
+    "location": "Taipei Bike Works (維修/保養專門店/單車租借), No. 9, Lane 70, Section 2, Chongqing N Rd, Datong District, Taipei City, 103, Taiwan",
+    "description": "Discover Taipei, Taiwan on an 8-hour cycling tour. Pedal through vibrant neighborhoods, scenic parks, and historic sites on an active adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 98.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Zhuilu Old Trail Hike in Taroko National Park, Taiwan",
+    "url": "https://www.ascendia-sports.com/hualien-hiking-zhuilu-old-trail-hike-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Hike the iconic Zhuilu Old Trail in Taroko National Park, Taiwan. Enjoy breathtaking cliffside views, lush greenery, and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 45.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Magical Forest Trail Hike in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/hualien-hiking-magical-forest-trail-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Explore the Magical Forest Trail in Hualien, Taiwan. Enjoy scenic forest paths, breathtaking mountain views, and an enchanting hiking experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 65.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Taroko National Park Sightseeing Tour in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/taroko-national-park-sightseeing-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Discover the beauty of Taroko National Park in Hualien, Taiwan. Explore stunning gorges, lush trails, and breathtaking landscapes on a guided tour. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Taroko Xilaan Trail Hike in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/hualien-taiwan-hiking-taroko-xilaan-trail.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Hike the Xilaan Trail in Taroko National Park, Hualien, Taiwan. Enjoy scenic river views, lush forests, and an enriching outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 58.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Taroko National Park Hiking Tour in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/taroko-national-hikes-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Embark on a hiking tour in Taroko National Park, Hualien, Taiwan. Explore breathtaking trails, lush landscapes, and stunning gorge views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Sea Kayaking at Qingshui Cliff in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/sea-kayaking-qingshui-cliff-hualien-taiwan.html",
+    "location": "Ye Fun. Hualien (野fun。花蓮), No. 98, Haibin Rd, Xiulin Township, Hualien County, 972, Taiwan",
+    "description": "Paddle along Qingshui Cliff in Hualien, Taiwan with a sea kayaking adventure. Enjoy stunning coastal views and an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kayaking on the Hualien River in Taiwan",
+    "url": "https://www.ascendia-sports.com/kayaking-hualien-river.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Paddle along the Hualien River in Taiwan with a scenic kayaking adventure. Enjoy stunning mountain views and a relaxing outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 65.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Sea Kayaking at Qingshui Cliff in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/sea-kayaking-qingshui-cliff-hualien-taiwan-983959.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Paddle along Qingshui Cliff in Hualien, Taiwan with a sea kayaking adventure. Enjoy stunning coastal views and a memorable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Ruisui Mountain Motorbiking Adventure in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/ruisui-mountain-motorbiking-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Ride through scenic trails in Ruisui Mountain, Hualien, Taiwan. Enjoy breathtaking views and an exciting motorbiking adventure in nature. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Coastal Mountain Motorbiking in Yanliao, Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/coastal-mountain-motorbiking-yanliao-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Explore Hualien’s coastal mountains in Yanliao, Taiwan with a motorbiking adventure. Enjoy stunning sea views and thrilling mountain trails. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Totoro Forest Motorbiking Adventure in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/totoro-motorbiking-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Ride through Totoro Forest in Hualien, Taiwan on a motorbiking adventure. Enjoy scenic forest trails and an exciting outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 65.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Banana Grove Motorbiking Adventure in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/motorbiking-banana-grove-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Explore historic banana groves in Hualien, Taiwan with a motorbiking adventure. Enjoy scenic trails and a thrilling outdoor riding experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 69.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Angelic Stream Trekking in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/angelic-stream-trekking-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Trek along Angelic Stream in Hualien, Taiwan. Enjoy scenic nature trails, crystal-clear waters, and a family-friendly outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 59.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Shuimutin Stand-Up Paddleboarding in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/shuimutin-sup-standup-paddle-hualien-taiwan.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Paddle along Shuimutin in Hualien, Taiwan on a stand-up paddleboarding adventure. Enjoy serene waters, scenic views, and a fun outdoor activity. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 89.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Changhong Bridge Stand-Up Paddleboarding in Hualien, Taiwan",
+    "url": "https://www.ascendia-sports.com/changhong-bridge-sup-hualien-taiwan-standup-paddle.html",
+    "location": "Hualien Train Station (花蓮車站), No. 100, Guolian 1st Rd, Hualien City, Hualien County, 970, Taiwan",
+    "description": "Experience stand-up paddleboarding at Changhong Bridge in Hualien, Taiwan. Enjoy scenic river views and a relaxing outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 79.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Scuba Diving Adventures in Phuket, Thailand",
+    "url": "https://www.ascendia-sports.com/scuba-diving-thailand-phuket.html",
+    "location": "SSS Phuket Dive, Freedive & Surf Center, 40/14 Kata Road, 83150, Kata Beach, Phuket, Thailand",
+    "description": "Discover underwater wonders with scuba diving in Phuket, Thailand. Enjoy vibrant marine life, clear waters, and unforgettable diving experiences. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 45.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Snorkeling Adventure in Koh Phi Phi, Similan Islands, and Racha Yai from Phuket, Thailand",
+    "url": "https://www.ascendia-sports.com/snorkeling-thailand-phuket-koh-phi-phi.html",
+    "location": "SSS Phuket Dive, Freedive & Surf Center, 40/14 Kata Road, 83150, Kata Beach, Phuket, Thailand",
+    "description": "Snorkel in Koh Phi Phi, Similan Islands, and Racha Yai from Phuket, Thailand. Discover vibrant marine life and crystal-clear waters on a guided tour. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 75.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Surfing Lessons & Camps in Phuket, Thailand",
+    "url": "https://www.ascendia-sports.com/surfing-thailand-phuket.html",
+    "location": "SSS Phuket Dive, Freedive & Surf Center, 40/14 Kata Road, 83150, Kata Beach, Phuket, Thailand",
+    "description": "Catch the waves with surfing lessons and camps in Phuket, Thailand. Learn from expert instructors and enjoy an exciting surf adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 45.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Stand-Up Paddleboarding in Phuket, Thailand",
+    "url": "https://www.ascendia-sports.com/sup-stand-up-paddle-thailand-phuket.html",
+    "location": "SSS Phuket Dive, Freedive & Surf Center, 40/14 Kata Road, 83150, Kata Beach, Phuket, Thailand",
+    "description": "Paddle along Phuket's beautiful coastlines in Thailand with stand-up paddleboarding. Enjoy serene waters, scenic views, and a fun outdoor activity. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 45.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Whitewater Rafting & Adventure Tours in Chiang Mai, Thailand",
+    "url": "https://www.ascendia-sports.com/whitewater-rafting-northern-thailand-chiang-mai.html",
+    "location": "Siam River Adventures, 17 Ratchawitee Road, Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+    "description": "Experience whitewater rafting and adventure tours in Chiang Mai, Thailand. Navigate thrilling rapids and enjoy scenic landscapes for an unforgettable ride. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Whitewater Kayaking Adventure in Chiang Mai, Thailand",
+    "url": "https://www.ascendia-sports.com/whitewater-kayaking-northern-thailand-chiang-mai.html",
+    "location": "Siam River Adventures, 17 Ratchawitee Road, Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+    "description": "Paddle through exciting whitewater rapids in Chiang Mai, Thailand with a kayaking adventure. Enjoy stunning river views and an adrenaline-pumping ride. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 70.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Adventure Tours in Chiang Mai: Ziplining, Rafting, Rock Climbing & Mountain Biking",
+    "url": "https://www.ascendia-sports.com/canopy-tour-rafting-rock-climbing-mountain-biking-zipline-northern-thailand-chiang-mai.html",
+    "location": "Siam River Adventures, 17 Ratchawitee Road, Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+    "description": "Embark on adventure tours in Chiang Mai, Thailand, featuring ziplining, rafting, rock climbing, and mountain biking. Enjoy thrilling outdoor activities. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 182.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Mountain Biking Adventures in Chiang Mai, Thailand",
+    "url": "https://www.ascendia-sports.com/mountain-biking-northern-thailand-chiang-mai.html",
+    "location": "Siam River Adventures, 17 Ratchawitee Road, Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+    "description": "Ride thrilling mountain biking trails in Chiang Mai, Thailand. Enjoy scenic descents, challenging routes, and breathtaking views of nature. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 46.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Trekking & Hiking Adventures in Chiang Mai, Thailand",
+    "url": "https://www.ascendia-sports.com/trekking-hiking-northern-thailand-chiang-mai.html",
+    "location": "Siam River Adventures, 17 Ratchawitee Road, Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+    "description": "Explore scenic trekking and hiking trails in Chiang Mai, Thailand. Enjoy breathtaking mountain views, lush forests, and an enriching outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Adventure Activities in Pattaya, Thailand",
+    "url": "https://www.ascendia-sports.com/bungee-jumping-kayaking-sup-paintball-watersports-scuba-diving-adventure-pattaya-thailand.html",
+    "location": "Pattaya Bungy Jump, 248/10 Moo 12, Thepprasit Road Soi 9, Nongprue, Bang Lamung District, Chon Buri 20150, Thailand",
+    "description": "Experience exciting adventure activities in Pattaya, Thailand. From water sports to ziplining, enjoy thrilling outdoor fun for all ages. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 25.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Over Ölüdeniz & Babadağ, Turkey",
+    "url": "https://www.ascendia-sports.com/paragliding-oludeniz-babadag-turkey.html",
+    "location": "Indra Paragliding, Ölüdeniz Mahallesi, Belceğiz Mevkii, 48340 Fethiye/Muğla, Türkiye",
+    "description": "Soar above Ölüdeniz and Babadağ in Turkey with a tandem paragliding experience. Enjoy breathtaking coastal views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Powered Paragliding in Antalya, Turkey",
+    "url": "https://www.ascendia-sports.com/powered-paragliding-antalya-turkey.html",
+    "location": "Indra Paragliding Konyaaltı, Kuşkavağı, 518. Sk. No:22/1, 07070 Konyaaltı/Antalya, Türkiye",
+    "description": "Fly above Antalya's stunning coastlines in Turkey with powered paragliding. Enjoy breathtaking views and an exhilarating flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 140.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Near Istanbul, Turkey",
+    "url": "https://www.ascendia-sports.com/paragliding-istanbul-turkey.html",
+    "location": "IKARUS SPORTIVE AVIATION PARAGLIDING SCHOOL / Istanbul, Acıbadem Neighborhood, Çeçen Street, Akasya A Tower No:25A/150, 34000 Üsküdar/Istanbul, Turkey",
+    "description": "Fly above scenic landscapes near Istanbul, Turkey with a tandem paragliding experience. Enjoy breathtaking views and an exhilarating adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 130.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Near Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/paragliding-vietnam-nha-trang.html",
+    "location": "Dac Loc Village, Vinh Phuong Commune, Nha Trang, Khánh Hòa 58000, Vietnam",
+    "description": "Soar above Nha Trang’s beautiful coastlines in Vietnam with a tandem paragliding experience. Enjoy stunning ocean views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 115.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Near Hanoi, Vietnam",
+    "url": "https://www.ascendia-sports.com/paragliding-vietnam-hanoi.html",
+    "location": "Highlands Coffee BigC, BigC, 222 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",
+    "description": "Fly above scenic landscapes near Hanoi, Vietnam with a tandem paragliding adventure. Enjoy breathtaking mountain views and an exhilarating experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 63.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding in Da Nang, Vietnam",
+    "url": "https://www.ascendia-sports.com/paragliding-vietnam-da-nang.html",
+    "location": "Chùa Bửu Đài Sơn, 31 Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+    "description": "Experience tandem paragliding in Da Nang, Vietnam. Soar above stunning coastal views and enjoy an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Experience Underwater Walking in Da Nang & Hoi An, Vietnam",
+    "url": "https://www.ascendia-sports.com/underwater-walking-vietnam-da-nang-hoi-an.html",
+    "location": "A La Carte Da Nang Beach, 200 Vo Nguyen Giap Street, Phuoc My, Son Tra District, Da Nang 550000, Vietnam",
+    "description": "Discover the thrill of underwater walking in Da Nang and Hoi An, Vietnam. Explore vibrant marine life and enjoy a unique ocean adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 65.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Countryside and Kayaking Tour in Hoi An and Da Nang, Vietnam",
+    "url": "https://www.ascendia-sports.com/kayaking-jeep-vietnam-hoi-an-danang-countryside-tour.html",
+    "location": "Japanese Covered Bridge, Nguyen Thi Minh Khai Street, Minh An Ward, Hoi An, Quang Nam, Vietnam",
+    "description": "Explore the countryside with a kayaking tour in Hoi An and Da Nang, Vietnam. Enjoy scenic rivers, cultural experiences, and outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 44.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Snorkeling Tour in Cham Islands, Hoi An & Da Nang, Vietnam",
+    "url": "https://www.ascendia-sports.com/snorkeling-vietnam-cham-islands-hoi-an-da-nang.html",
+    "location": "A La Carte Danang Beach, 200 Vo Nguyen Giap Street, Phuoc My, Son Tra District, Da Nang 550000, Vietnam",
+    "description": "Snorkel in the crystal-clear waters of Cham Islands near Hoi An and Da Nang, Vietnam. Discover vibrant marine life and stunning coral reefs. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 36.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kayaking Tour Through Ancient Town Hoi An, Vietnam",
+    "url": "https://www.ascendia-sports.com/kayaking-vietnam-hoi-an-da-nang-ancient-town.html",
+    "location": "Japanese Covered Bridge, Nguyen Thi Minh Khai Street, Minh An Ward, Hoi An, Quang Nam, Vietnam",
+    "description": "Paddle through the ancient town of Hoi An, Vietnam on a scenic kayaking tour. Enjoy cultural landmarks, scenic river views, and outdoor fun. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 29.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Sunset Kayaking Tour in Hoi An, Vietnam",
+    "url": "https://www.ascendia-sports.com/sunset-kayaking-vietnam-hoi-an-danang.html",
+    "location": "Japanese Covered Bridge, Nguyen Thi Minh Khai Street, Minh An Ward, Hoi An, Quang Nam, Vietnam",
+    "description": "Experience a scenic sunset kayaking tour in Hoi An, Vietnam. Paddle along peaceful waters, enjoy stunning views, and a relaxing outdoor adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 29.00,
+    "currency": "USD"
+  },
+  {
+    "title": "White Water Rafting Adventure in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/white-water-rafting-vietnam-nha-trang.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Embark on a thrilling white water rafting adventure in Nha Trang, Vietnam. Navigate exciting rapids and enjoy scenic river landscapes. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 65.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Jet Ski Safari in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/jet-ski-safari-vietnam-nha-trang.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Ride the waves on a jet ski safari in Nha Trang, Vietnam. Explore stunning coastlines, enjoy thrilling speeds, and an exciting watersport adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 245.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Flyboard Experience in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/flyboard-vietnam-nha-trang.html",
+    "location": "Ana Marina Lounge, Ana Marina Nha Trang, Nguyen Co Thach Street, Vinh Hoa Ward, Nha Trang City, Khanh Hoa, Vietnam",
+    "description": "Hover above the water with a flyboard experience in Nha Trang, Vietnam. Enjoy thrilling heights, powerful water jets, and adrenaline-pumping fun. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 77.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Sea Walking Experience in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/sea-walking-vietnam-nha-trang.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Discover underwater wonders with a sea walking experience in Nha Trang, Vietnam. Walk along the ocean floor and enjoy vibrant marine life up close. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 70.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Snorkeling Tour in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/snorkeling-tour-vietnam-nha-trang.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Explore the vibrant underwater world with a snorkeling tour in Nha Trang, Vietnam. Discover colorful coral reefs and marine life in crystal-clear waters. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 45.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Parasailing Tour in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/parasailing-tour-nha-trang-vietnam.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Soar above Nha Trang’s stunning coastlines in Vietnam with a parasailing tour. Enjoy breathtaking aerial views and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 65.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Mud Bath Spa and Water Sports Tour in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/mud-bath-spa-water-sports-nha-trang-vietnam.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Relax with a mud bath spa and enjoy water sports in Nha Trang, Vietnam. Experience a unique mix of relaxation and adventure by the beautiful coastline. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 50.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Adventure Boat Tour in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/adventure-boat-tour-vietnam-nha-trang.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Embark on an adventure boat tour in Nha Trang, Vietnam. Discover stunning islands, enjoy snorkeling, and experience an exciting day on the water. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 40.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Monkey Island and I-Resort Mud Spa Tour in Nha Trang, Vietnam",
+    "url": "https://www.ascendia-sports.com/monkey-island-resort-spa-vietnam-nha-trang.html",
+    "location": "Nha Trang Cathedral, 31A Thai Nguyen Street, Phuoc Tan Ward, Nha Trang, Khanh Hoa 650000, Vietnam",
+    "description": "Explore Monkey Island and relax at I-Resort Mud Spa in Nha Trang, Vietnam. Enjoy wildlife encounters, scenic views, and a rejuvenating spa experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 190.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bungee Jumping and Nature Tour in Whistler, Canada",
+    "url": "https://www.ascendia-sports.com/bungee-jumping-nature-tour-whistler.html",
+    "location": "Robson Square, 800 Robson Street, Vancouver, BC V6Z 3B7, Canada",
+    "description": "Take the leap with bungee jumping and explore scenic nature trails in Whistler, Canada. Enjoy adrenaline-pumping thrills and breathtaking views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 1060.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience in San Francisco, USA",
+    "url": "https://www.ascendia-sports.com/paragliding-in-san-francisco-united-states.html",
+    "location": "Mussel Rock Park, Skyline Drive & Westline Drive, Daly City, CA 94015, USA",
+    "description": "Soar above San Francisco, USA with a tandem paragliding experience. Enjoy stunning coastal views, the Golden Gate Bridge, and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 245.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience in Los Angeles, USA",
+    "url": "https://www.ascendia-sports.com/paragliding-los-angeles.html",
+    "location": "Carbon Beach Coastal Access, 22126 Pacific Coast Highway, Malibu, CA 90265, USA",
+    "description": "Fly above Los Angeles, USA with a tandem paragliding adventure. Enjoy stunning coastal views, cityscapes, and an unforgettable flying experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 250.00,
+    "currency": "USD"
+  },
+  {
+    "title": "San Francisco Helicopter Tour",
+    "url": "https://www.ascendia-sports.com/san-francisco-helicopter-tour.html",
+    "location": "Seaplane Adventures, 242 Redwood Hwy, Mill Valley, CA 94941, United States",
+    "description": "Experience breathtaking aerial views on a helicopter tour over San Francisco, USA. Fly above iconic landmarks and enjoy an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 370.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kitesurfing Lessons in Miami, Florida",
+    "url": "https://www.ascendia-sports.com/kitesurfing-miami-florida.html",
+    "location": "North Beach - 75th Street, 7500 Collins Avenue, Miami Beach, FL 33141, USA",
+    "description": "Catch the waves with kitesurfing lessons in Miami, Florida, USA. Learn from expert instructors and enjoy an exhilarating watersport adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 105.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience in Maui, Hawaii",
+    "url": "https://www.ascendia-sports.com/paragliding-maui-hawaii.html",
+    "location": "Paraglide Maui, 1100 Waipoli Rd, Kula, HI 96790, United States",
+    "description": "Soar above Maui's stunning landscapes in Hawaii, USA with a tandem paragliding experience. Enjoy breathtaking coastal views and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 220.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Kayaking Chicago Architecture Tour",
+    "url": "https://www.ascendia-sports.com/kayaking-chicago-architecture-tour.html",
+    "location": "Kayak Chicago, 1220 W. Le Moyne St., Chicago, IL 60642, USA",
+    "description": "Paddle along the Chicago River on a guided architecture kayaking tour in Chicago, USA. Enjoy stunning city views and learn about iconic landmarks. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 80.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Chicago Powered Paragliding Training",
+    "url": "https://www.ascendia-sports.com/chicago-powered-paragliding-training.html",
+    "location": "Phillips Park, 1000 Ray Moses Drive, Aurora, IL 60505, USA",
+    "description": "Learn to fly with powered paragliding training in Chicago, USA. Gain hands-on experience, expert instruction, and the thrill of solo flights. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 2000.00,
+    "currency": "USD"
+  },
+  {
+    "title": "New York City Jet Ski Tours",
+    "url": "https://www.ascendia-sports.com/new-york-jet-ski-tours.html",
+    "location": "New York City Jet Ski, 1301 Sinatra Drive North, Pier 13, Hoboken, NJ 07030, USA",
+    "description": "Ride the waves with jet ski tours in New York City, USA. Explore iconic landmarks from the water, enjoy thrilling speeds, and a fun adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 210.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience in Rio de Janeiro, Brazil",
+    "url": "https://www.ascendia-sports.com/paragliding-rio-de-janeiro-brazil.html",
+    "location": "São Conrado Metro Station (Exit C), Estrada da Gávea, 899 - São Conrado, Rio de Janeiro - RJ, 22610-001, Brazil",
+    "description": "Soar above Rio de Janeiro, Brazil with a tandem paragliding experience. Enjoy breathtaking coastal views, mountain landscapes, and an unforgettable adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 178.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Hang Gliding Experience in Rio de Janeiro, Brazil",
+    "url": "https://www.ascendia-sports.com/hang-gliding-rio-de-janeiro-brazil.html",
+    "location": "São Conrado Metro Station (Exit C), Estrada da Gávea, 899 - São Conrado, Rio de Janeiro - RJ, 22610-001, Brazil",
+    "description": "Glide above Rio de Janeiro, Brazil with a tandem hang gliding experience. Enjoy stunning coastal views, mountain backdrops, and an exhilarating adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 178.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience near Bogotá, Colombia",
+    "url": "https://www.ascendia-sports.com/paragliding-bogota-colombia-parapente.html",
+    "location": "High Wind Parapente, Tocando el Cielo, Tocancipá, Guatavita, Cundinamarca, Colombia",
+    "description": "Fly above scenic landscapes near Bogotá, Colombia with a tandem paragliding adventure. Enjoy breathtaking mountain views and an unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 100.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience near Mexico City and Puebla, Mexico",
+    "url": "https://www.ascendia-sports.com/paragliding-mexico-city-puebla.html",
+    "location": "The Italian Coffee Company, Local B, 5 de Mayo No. 1, Centro, 74325 Chipilo de Francisco Javier Mina, Puebla, Mexico",
+    "description": "Fly above scenic landscapes near Mexico City and Puebla, Mexico with a tandem paragliding adventure. Enjoy breathtaking mountain views and an unforgettable experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 100.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience near Cusco, Peru",
+    "url": "https://www.ascendia-sports.com/paragliding-peru-machu-picchu-cusco.html",
+    "location": "Plaza de Armas, Cusco 08002, Peru",
+    "description": "Soar above the Sacred Valley near Cusco, Peru with a tandem paragliding experience. Enjoy stunning Andean views and an exhilarating flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 120.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paragliding Experience in Queenstown, New Zealand",
+    "url": "https://www.ascendia-sports.com/paragliding-new-zealand-queenstown-summer.html",
+    "location": "Skytrek Tandem Hang Gliding & Paragliding 45 Camp Street, Queenstown 9300, New Zealand​",
+    "description": "Fly above Queenstown, New Zealand with a tandem paragliding experience. Enjoy breathtaking lake and mountain views and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 190.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Winter Paragliding Experience in Queenstown, New Zealand",
+    "url": "https://www.ascendia-sports.com/paragliding-new-zealand-queenstown-sinter.html",
+    "location": "Skytrek Tandem Hang Gliding & Paragliding 45 Camp Street, Queenstown 9300, New Zealand​",
+    "description": "Soar above snow-capped peaks with winter paragliding in Queenstown, New Zealand. Enjoy breathtaking alpine views and an exhilarating winter adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 210.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Tandem Hang Gliding Experience in Queenstown, New Zealand",
+    "url": "https://www.ascendia-sports.com/hang-gliding-new-zealand-queenstown.html",
+    "location": "Skytrek Tandem Hang Gliding & Paragliding 45 Camp Street, Queenstown 9300, New Zealand​",
+    "description": "Glide above Queenstown, New Zealand with a tandem hang gliding experience. Enjoy stunning mountain landscapes and an unforgettable flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 200.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Experience Tandem Paragliding in Cape Town, South Africa",
+    "url": "https://www.ascendia-sports.com/paragliding-cape-town-south-africa.html",
+    "location": "Hi5 Tandem Paragliding, 1 Signal Hill Rd, Signal Hill, Cape Town, 8001, South Africa",
+    "description": "Soar above Cape Town, South Africa with a tandem paragliding experience. Enjoy breathtaking ocean and mountain views and an exhilarating flying adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 96.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Paarl Rock Abseiling Adventure in Cape Town, South Africa",
+    "url": "https://www.ascendia-sports.com/abseil-cape-town-south-africa.html",
+    "location": "Abseil Africa, 297 Long Street, Cape Town City Centre, Cape Town, 8000, South Africa",
+    "description": "Descend Paarl Rock in Cape Town, South Africa with an abseiling adventure. Enjoy stunning views, thrilling heights, and an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 50.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning, Abseiling, and Hiking Adventure in Cape Town, South Africa",
+    "url": "https://www.ascendia-sports.com/canyoning-abseil-hiking-cape-town-south-africa.html",
+    "location": "Abseil Africa, 297 Long Street, Cape Town City Centre, Cape Town, 8000, South Africa",
+    "description": "Embark on a canyoning, abseiling, and hiking adventure in Cape Town, South Africa. Explore scenic gorges, rappel down cliffs, and enjoy outdoor thrills. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 60.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Downhill Mountain Scooter Tour in Cape Town, South Africa",
+    "url": "https://www.ascendia-sports.com/downhill-mountain-scooter-tour-cape-town-south-africa.html",
+    "location": "Abseil Africa, 297 Long Street, Cape Town City Centre, Cape Town, 8000, South Africa",
+    "description": "Race down scenic trails on a downhill mountain scooter tour in Cape Town, South Africa. Enjoy thrilling descents and breathtaking coastal views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 55.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Seal Snorkeling Tour in Cape Town, South Africa",
+    "url": "https://www.ascendia-sports.com/snorkel-tour-seals-cape-town-south-africa.html",
+    "location": "Kayak Adventures Simon's Town, Long Beach, Driegebroeders Road, Simon's Town, Cape Town, 7995, South Africa",
+    "description": "Swim with playful seals on a snorkeling tour in Cape Town, South Africa. Explore vibrant marine life and enjoy an unforgettable ocean adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 66.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rafting Adventure at Victoria Falls, Zimbabwe",
+    "url": "https://www.ascendia-sports.com/rafting-victoria-falls-zimbabwe.html",
+    "location": "Try Rafting Victoria Falls, Stand 6445 Mkhosana Township, Victoria Falls, Zimbabwe",
+    "description": "Experience thrilling rafting at Victoria Falls, Zimbabwe. Navigate exciting rapids on the Zambezi River and enjoy breathtaking gorge views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 150.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Zambezi River 2.5-Day Rafting Adventure Near Victoria Falls, Zimbabwe",
+    "url": "https://www.ascendia-sports.com/bungee-jumping-victoria-falls.html",
+    "location": "Try Rafting Victoria Falls, Stand 6445 Mkhosana Township, Victoria Falls, Zimbabwe",
+    "description": "Embark on a 2.5-day rafting adventure on the Zambezi River near Victoria Falls, Zimbabwe. Conquer thrilling rapids and camp under the stars. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 2325.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bungee Jump from Victoria Falls Bridge, Zimbabwe",
+    "url": "https://www.ascendia-sports.com/batoka-gorge-hiking-picnic-victoria-falls-zimbabwe.html",
+    "location": "Try Rafting Victoria Falls, Stand 6445 Mkhosana Township, Victoria Falls, Zimbabwe",
+    "description": "Take the leap with a bungee jump from Victoria Falls Bridge, Zimbabwe. Experience an adrenaline-pumping freefall with stunning gorge views. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 168.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Batoka Gorge Hiking & Picnic Near Victoria Falls, Zimbabwe",
+    "url": "https://www.ascendia-sports.com/batoka-gorge-hiking-picnic-victoria-falls-zimbabwe.html",
+    "location": "Try Rafting Victoria Falls, Stand 6445 Mkhosana Township, Victoria Falls, Zimbabwe",
+    "description": "Hike through Batoka Gorge near Victoria Falls, Zimbabwe. Enjoy scenic trails, stunning river views, and a relaxing picnic in nature. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 75.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Jet Ski Tours: Gold Coast, Australia",
+    "url": "https://www.ascendia-sports.com/jet-ski-tour-gold-coast-australia-brisbane.html",
+    "location": "Gold Coast Watersports, 58 Cavill Ave, Surfers Paradise QLD 4217, Australia",
+    "description": "Ride the waves with jet ski tours on the Gold Coast, Australia. Explore beautiful coastlines, enjoy thrilling speeds, and an exciting watersport adventure. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 90.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Parasailing Adventure: Gold Coast, Australia",
+    "url": "https://www.ascendia-sports.com/parasailing-in-gold-coast-australia.html",
+    "location": "Gold Coast Watersports, 58 Cavill Ave, Surfers Paradise QLD 4217, Australia",
+    "description": "Soar above the Gold Coast, Australia with a parasailing adventure. Enjoy breathtaking coastal views and an exhilarating flying experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 85.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Canyoning Adventures Near Sydney, Australia",
+    "url": "https://www.ascendia-sports.com/canyoning-sydney-australia.html",
+    "location": "High and Wild, 207 Katoomba St, Katoomba NSW 2780, Australia",
+    "description": "Embark on canyoning adventures near Sydney, Australia. Jump, slide, and rappel through stunning gorges for an adrenaline-packed outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 175.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Abseiling Adventures Near Sydney, Australia",
+    "url": "https://www.ascendia-sports.com/abseil-sydney-australia.html",
+    "location": "High and Wild, 207 Katoomba St, Katoomba NSW 2780, Australia",
+    "description": "Descend rugged cliffs with abseiling adventures near Sydney, Australia. Enjoy stunning views, thrilling heights, and an unforgettable outdoor experience. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 115.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Rock Climbing Adventures Near Sydney, Australia",
+    "url": "https://www.ascendia-sports.com/rock-climbing-sydney-australia.html",
+    "location": "High and Wild, 207 Katoomba St, Katoomba NSW 2780, Australia",
+    "description": "Challenge yourself with rock climbing adventures near Sydney, Australia. Conquer scenic routes with breathtaking views and expert guidance. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 145.00,
+    "currency": "USD"
+  },
+  {
+    "title": "Bushcraft Survival Skills Near Sydney, Australia",
+    "url": "https://www.ascendia-sports.com/bushcraft-survival-skills-sydney-australia.html",
+    "location": "High and Wild, 207 Katoomba St, Katoomba NSW 2780, Australia",
+    "description": "Learn bushcraft survival skills near Sydney, Australia. Gain hands-on experience with fire making, shelter building, and essential outdoor techniques. Book now for unforgettable memories. Perfect for adventure seekers!",
+    "price": 450.00,
+    "currency": "USD"
+  }
+]
