@@ -23,7 +23,7 @@ def whatsapp_webhook():
 
     # Otherwise use OpenAI
     openai_response = openai.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o",  # <- FIXED here
         messages=[{"role": "user", "content": message_body}],
         temperature=0.7
     )
