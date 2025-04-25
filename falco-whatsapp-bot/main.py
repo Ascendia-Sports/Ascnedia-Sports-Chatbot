@@ -1,25 +1,24 @@
 from flask import Flask, request
-from openai import OpenAI
+import openai
 import os
 import json
 
 app = Flask(__name__)
-client = OpenAI()  # Authenticates using OPENAI_API_KEY env variable
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Load chatbot logic rules (e.g., refunds, payment info, etc.)
+# Load chatbot logic rules (list of rules)
 with open("chatbot_logic.json", "r") as file:
     chatbot_rules = json.load(file)
 
-# Optional: Load activities data (for future advanced matching or links)
+# Optional: Load activities data (for future matching)
 with open("activities.json", "r") as f:
     activities_data = json.load(f)
 
-# Checks if incoming message matches a rule in the logic file
+# Checks if incoming message matches a rule
 def check_logic(message):
-    for rule in chatbot_rules.values():
-        if isinstance(rule, dict) and "keywords" in rule and "response" in rule:
-            if any(keyword.lower() in message.lower() for keyword in rule["keywords"]):
-                return rule["response"]
+    for rule in chatbot_rules:
+        if any(keyword.lower() in message.lower() for keyword in rule["keywords"]):
+            return rule["response"]
     return None
 
 @app.route("/whatsapp", methods=["POST"])
@@ -35,8 +34,8 @@ def whatsapp_webhook():
     if rule_response:
         return rule_response
 
-    # Otherwise, let OpenAI handle it
-    response = client.chat.completions.create(
+    # Otherwise, use OpenAI GPT-4
+    response = openai.chat.completions.create(
         model="gpt-4",
         messages=[
             {"role": "user", "content": message_body},
