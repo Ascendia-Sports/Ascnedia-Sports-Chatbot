@@ -6,32 +6,33 @@ import json
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Load chatbot logic and activities into memory
-with open("chatbot_logic.json", "r") as f:
-    chatbot_logic = json.load(f)
+# Load chatbot logic rules (rules for how to respond)
+with open("chatbot_logic.json", "r") as file:
+    chatbot_rules = json.load(file)
 
+# Load activities data (activity details with location and URL)
 with open("activities.json", "r") as f:
     activities_data = json.load(f)
 
-# Helper function: Build the system prompt
-def build_system_prompt():
-    prompt = (
-        "You are an Ascendia Sports WhatsApp support agent.\n"
-        "Answer customers naturally based on the following rules and activities.\n\n"
-        "Important Rules:\n"
-    )
-    for rule in chatbot_logic:
-        prompt += f"- {rule['rule']}\n"
+# Function to check if the incoming message matches a rule in the logic file
+def check_logic(message):
+    for rule in chatbot_rules["key_rules"].values():
+        if any(keyword.lower() in message.lower() for keyword in rule.split()):
+            return rule
+    return None
 
-    prompt += "\nAvailable Activities:\n"
+# Function to find the matching activity and location from activities.json
+def find_activity_location(message):
     for activity in activities_data:
-        prompt += f"- {activity['title']} in {activity['location']} (${activity['price']} {activity['currency']})\n"
+        if activity['name'].lower() in message.lower():
+            return activity
+    return None
 
-    prompt += (
-        "\nOnly provide information based on the rules and activities above.\n"
-        "Keep replies short, human-like, and natural. Avoid using emojis.\n"
-        "If you don't know the answer, tell the customer to email contact@ascendia-sports.com.\n"
-    )
+# The main system prompt to build with chatbot rules
+def build_system_prompt():
+    prompt = "You are a helpful assistant for Ascendia Sports.\n\n"
+    for key, rule in chatbot_rules["key_rules"].items():
+        prompt += f"- {rule}\n"
     return prompt
 
 @app.route("/whatsapp", methods=["POST"])
@@ -42,20 +43,18 @@ def whatsapp_webhook():
     if not message_body:
         return "No message received", 400
 
-    system_prompt = build_system_prompt()
+    # Check if the message matches any predefined logic
+    rule_response = check_logic(message_body)
+    if rule_response:
+        return rule_response
 
-    # Use OpenAI to create a response
-    openai_response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": message_body},
-        ],
-        temperature=0.5
-    )
+    # Try to match the activity and location
+    activity_info = find_activity_location(message_body)
+    if activity_info:
+        return f"Here's the link for {activity_info['name']}: {activity_info['url']}"
 
-    reply = openai_response.choices[0].message.content.strip()
-    return reply
+    # If the activity or location is unclear, ask the user for more information
+    return "Can you please tell me which activity and location you're interested in?"
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)
