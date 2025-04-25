@@ -20,8 +20,8 @@ def build_system_prompt():
         "Answer customers naturally based on the following rules and activities.\n\n"
         "Important Rules:\n"
     )
-    for key, rule in chatbot_logic["key_rules"].items():
-        prompt += f"- {rule}\n"
+    for rule in chatbot_logic:
+        prompt += f"- {rule['rule']}\n"
 
     prompt += "\nAvailable Activities:\n"
     for activity in activities_data:
@@ -46,7 +46,7 @@ def whatsapp_webhook():
 
     # Use OpenAI to create a response
     openai_response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",  # safer to use 3.5 unless you upgrade to GPT-4 access
+        model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": message_body},
