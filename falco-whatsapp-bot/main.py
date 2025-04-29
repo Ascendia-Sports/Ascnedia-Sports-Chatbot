@@ -18,32 +18,38 @@ def whatsapp_webhook():
     message_body = request.form.get("Body", "").strip()
 
     if not message_body:
-        return "No message received", 400
+        resp = MessagingResponse()
+        resp.message("Sorry, I didn’t catch that.")
+        return str(resp), 200
 
     try:
-        # Call the assistant via OpenAI API
-        response = openai.beta.threads.create_and_run(
+        # Create and run thread with assistant
+        thread = openai.beta.threads.create()
+        run = openai.beta.threads.runs.create(
+            thread_id=thread.id,
             assistant_id=ASSISTANT_ID,
-            thread={"messages": [{"role": "user", "content": message_body}]}
+            instructions="Answer like a friendly adventure sports concierge."
+        )
+        openai.beta.threads.messages.create(
+            thread_id=thread.id,
+            role="user",
+            content=message_body
         )
 
-        # Wait for completion
-        run_id = response["id"]
-        thread_id = response["thread_id"]
-
+        # Poll until run is complete
         while True:
-            run_status = openai.beta.threads.runs.retrieve(thread_id=thread_id, run_id=run_id)
-            if run_status.status == "completed":
+            status = openai.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+            if status.status == "completed":
                 break
-            time.sleep(0.5)  # Avoid hammering the API
+            time.sleep(1)
 
-        # Get the assistant's reply
-        messages = openai.beta.threads.messages.list(thread_id=thread_id)
-        assistant_reply = messages.data[0].content[0].text.value.strip()
+        # Fetch latest assistant message
+        messages = openai.beta.threads.messages.list(thread_id=thread.id)
+        reply = messages.data[0].content[0].text.value.strip()
 
-        # Respond via WhatsApp
+        # Return via Twilio MessagingResponse
         resp = MessagingResponse()
-        resp.message(assistant_reply)
+        resp.message(reply)
         return str(resp), 200
 
     except Exception as e:
