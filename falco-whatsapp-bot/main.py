@@ -46,10 +46,10 @@ def whatsapp_webhook():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)
-from fastapi import Request
+from flask import request
 
-@app.post("/whatsapp")
-async def whatsapp_webhook(request: Request):
-    data = await request.form()
+@app.route("/whatsapp", methods=["POST"])
+def whatsapp_webhook():
+    data = request.form.to_dict()
     print("Incoming WhatsApp message:", data)
     return {"status": "received"}
