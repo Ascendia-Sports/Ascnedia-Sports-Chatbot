@@ -1,1 +1,1 @@
-web: gunicorn falco-whatsapp-bot.main:app
+web: python falco-whatsapp-bot/main.py
