@@ -1,6 +1,8 @@
 from flask import Flask, request
+from twilio.twiml.messaging_response import MessagingResponse
 import openai
 import os
+import time
 
 app = Flask(__name__)
 
@@ -29,20 +31,25 @@ def whatsapp_webhook():
         run_id = response["id"]
         thread_id = response["thread_id"]
 
-        # Poll until done
         while True:
             run_status = openai.beta.threads.runs.retrieve(thread_id=thread_id, run_id=run_id)
             if run_status.status == "completed":
                 break
+            time.sleep(0.5)  # Avoid hammering the API
 
-        # Get the latest message
+        # Get the assistant's reply
         messages = openai.beta.threads.messages.list(thread_id=thread_id)
         assistant_reply = messages.data[0].content[0].text.value.strip()
 
-        return assistant_reply, 200
+        # Respond via WhatsApp
+        resp = MessagingResponse()
+        resp.message(assistant_reply)
+        return str(resp), 200
 
     except Exception as e:
-        return f"Error: {str(e)}", 500
+        resp = MessagingResponse()
+        resp.message(f"Sorry, something went wrong: {str(e)}")
+        return str(resp), 500
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=True)
