@@ -8,3 +8,5 @@ def whatsapp_webhook():
         '<?xml version="1.0" encoding="UTF-8"?><Response><Message>✅ Webhook reached! No OpenAI involved.</Message></Response>',
         mimetype="application/xml"
     )
+if __name__ == "__main__":
+    app.run()
