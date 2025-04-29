@@ -8,3 +8,6 @@ def whatsapp_webhook():
         '<?xml version="1.0" encoding="UTF-8"?><Response><Message>✅ Webhook reached!</Message></Response>',
         mimetype="application/xml"
     )
+@app.route("/", methods=["GET"])
+def root():
+    return "Falco Online"
